@@ -1,1 +1,1 @@
-food demo
+config server
